@@ -11,7 +11,7 @@ A full-featured dashboard app to manage hotel bookings, built with React, Supaba
 - React Query
 - React Hook Form + date-fns
 - Recharts
-- Tailwind CSS
+- Styled components
 - Dark/Light Theme
   
 ## ✨ Features
